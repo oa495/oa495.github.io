@@ -46,7 +46,7 @@ li {
 }
 p {
 	font-family: "merriweather_sansregular", "Merriweather Sans", Lucida Sans, Helvetica, Arial, sans-serif;
-	font-size: 18px;
+	font-size: 13px;
 }
 a {
 	text-decoration: none;
@@ -313,7 +313,7 @@ main {
     margin-left: 20px;
    }
     .bio {
-	margin-left: 20px;
+	   margin-left: 20px;
   }
   	.content {
 		text-align: center;
@@ -326,13 +326,16 @@ main {
    	   width: 100%;
   	}
 	.right {
-	  margin-left: 5px;
+	  margin-left: 0px;
 	}
 	.bio {
 	 margin-left: 15px;
 	}
-	.fp.right > p {
-		padding: 5px;
-	}
-
+  h3 {
+    font-size: 32px;
+  }
+  .right > p {
+      font-size: 0.9em;
+      margin-left: 0px;
+  }
 }

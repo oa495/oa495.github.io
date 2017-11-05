@@ -74,9 +74,8 @@ main {
 
 /** first page **/
 .first-page {
-	border-left: 15px solid white;
 	width: 100%;
-	height: 100vh;
+	height: 60vh;
 }
 /** social navigation icons **/
 .soc-nav li {

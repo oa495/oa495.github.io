@@ -112,15 +112,6 @@
 		"tags": ["bot"]
 	},
 	{
-		"title": "Henrietta",
-		"description": "Portfolio website for Parsons Art student.",
-		"year": "2015",
-		"imgUrl": "images/henrietta.png",
-		"altText": "Henrietta project homepage",
-		"url": "http://oa495.github.io/henrietta/",
-		"tags": ["static", "website"]
-	},
-	{
 		"title": "Startup Week",
 		"description": "Site for Tech@NYU Startup week: a week of hacking, designing, networking, and learning with the best and brightest in NYC tech.",
 		"year": "2016",
